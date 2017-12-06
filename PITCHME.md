@@ -76,6 +76,8 @@ def sanitise_value(value):
 'alpha_beta::gamma::delta_epsilon'
 ```
 
+---
+
 Then comes the seasoned developer...
 ====================================
 
